@@ -1,0 +1,1 @@
+// you can check script code in html file at the end body tag
