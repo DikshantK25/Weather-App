@@ -74,6 +74,9 @@ weather-app/
 │   └── search.png
 └── README.md          # This file
 ```
+ Image view:
+[![Screenshot 2025-02-16 014319](https://github.com/user-attachments/assets/61a88504-2bff-4684-ab38-cfcec502e997)](https://to-do-app-gray-rho-38.vercel.app/)
+
 
 ## Contributing
 
@@ -85,4 +88,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-This README provides a clear overview of the project, how to set it up, and how to use it. Simply copy and paste it into your repository's `README.md` file, update the API key and repository URL as needed, and you're ready to go!
