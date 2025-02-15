@@ -77,6 +77,10 @@ weather-app/
  Image view:
 [![Screenshot 2025-02-16 014319](https://github.com/user-attachments/assets/61a88504-2bff-4684-ab38-cfcec502e997)](https://to-do-app-gray-rho-38.vercel.app/)
 
+## Live Demo
+
+Check out the deployed version of the project here: [https://weather-app-liart-phi-78.vercel.app/]
+
 
 ## Contributing
 
